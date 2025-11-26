@@ -1,0 +1,39 @@
+# variabel adalah tempat menyimpan data
+# variabel = yang di matematika
+# x=2
+# y= x+ 4 'jadi = 2 + 4 = 6'
+# x = variabel nya, 2 = value nya
+# kalau '=' adalah asigment nya
+# variabel gak boleh pakai sepasi, boleh nya pakai"_"
+# contoh salah 'nilai y = 15'
+# contoh benar 'nilai_y = 15' ' atau nilaiy=15'
+# gak boleh naroh angka di depan tulisan
+# angka itu di belakang tulisan
+# contoh benar" juta10=10000000" atau juta_10=10000000"
+# contoh salah" 10juta=10000000"
+# menaruh / asigment nilai
+a = 10
+x = 5
+panjang = 1000
+# ingat panggil nya pakai print
+# ini pemanggilan peertama
+print("Nilai x = ",x)
+print("Nilai panjang = ",panjang)
+
+# penamaan
+nilai_y = 15 # dengan andescord
+juta_10 = 1000000 # ini boleh
+nilai_z = 17,5 # ini boleh
+
+# pemanggilan kedua
+# ini namanya merubah nilai yang sudah ada dari a=10
+# jadi a= 7
+print("Nilai a = ",a)
+a = 7
+print("Nilai a = ",a)
+
+# asigment indirect( ini ke variabel sebelim nya)
+b=a
+print("Nilai b = ",b)
+# nilai yang terakhir yang di pakai jadi nilai a=7
+#bukan lagi 10
